@@ -1,42 +1,40 @@
-# Welcome to Module 1: Git Basics
+# Bienvenido al Módulo 1: Conceptos básicos de Git
 
-In this module you will be introduced to Git. This module will cover:
+En este módulo se le presentará Git. Este módulo cubrirá:
 
-* What is version control?
-* What is Distributed Version Control?
-* What is a Git repository?
-* Basic Bash and Git commands
-* The Git workflow and the Three State Model
-* How to be selective with Git commits
-* How does Git save commits
-* How to branch and merge your branches
+* ¿Qué es el control de versiones?
+* ¿Qué es el control de versiones distribuido?
+* ¿Qué es un repositorio Git?
+* Comandos básicos de Bash y Git
+* El flujo de trabajo de Git y el modelo de tres estados
+* Cómo ser selectivo con las confirmaciones de Git
+* ¿Cómo guarda Git las confirmaciones?
+* Cómo crear ramas y fusionarlas
 
-## Lessons
+## Lecciones
 
-**All assignment files can be found at the top of the page.**
+**Todos los archivos de tareas se pueden encontrar en la parte superior de la página.**
 
-### Module 1.1: Meet Git
+### Módulo 1.1: Conoce a Git
 
-[:tv: Module 1.1 Video](https://youtu.be/uWsXEmaM3PA)
+[:tv: Módulo 1.1 Vídeo](https://youtu.be/uWsXEmaM3PA)
 
-:notebook: Complete Module 1.1 Assignment
+:notebook: Completar la Tarea del Módulo 1.1
 
-### Module 1.2: The Three State Model
+### Módulo 1.2: El modelo de tres estados
 
-[:tv: Module 1.2 Video](https://youtu.be/yLLZdOIuCfg)
+[:tv: Módulo 1.2 Vídeo](https://youtu.be/yLLZdOIuCfg)
 
-:notebook: Complete Module 1.2 Assignment
+:notebook: Completar la Tarea del Módulo 1.2
 
-### Module 1.3: Being Selective with Git
+### Módulo 1.3: Ser selectivo con Git
 
-[:tv: Module 1.3 Video](https://youtu.be/3zmolo8YRO8)
+[:tv: Módulo 1.3 Vídeo](https://youtu.be/3zmolo8YRO8)
 
-:notebook: Complete Module 1.3 Assignment
+:notebook: Completar la Tarea del Módulo 1.3
 
-### Module 1.4: Branches and Merging
+### Módulo 1.4: Ramas y fusiones
 
-[:tv: Module 1.4 Video](https://youtu.be/2YDoQZ9nZ4g)
+[:tv: Módulo 1.4 Video](https://youtu.be/2YDoQZ9nZ4g)
 
-:notebook: Complete Module 1.4 Assignment
-
-
+:notebook: Completar la Tarea del Módulo 1.4

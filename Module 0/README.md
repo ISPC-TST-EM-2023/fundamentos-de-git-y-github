@@ -8,5 +8,5 @@ En este módulo, veremos lo necesario para completar la Capacitación.
 Todos los archivos de asignación se pueden encontrar en la parte superior de esta página.
 
 - 📺 [Módulo 0.0 Vídeo]()
-- 📓 Asignación Módulo 0.1 
-- 📓 Asignación Módulo 0.2
+- 📓 Completar la Asignacion del Módulo 0.1 
+- 📓 Completar la Asignación del Módulo 0.2

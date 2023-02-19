@@ -1,12 +1,12 @@
-# Module 0
+# Módulo 0
 
-Welcome to Module 0!
+¡Bienvenidos al Módulo 0!
 
-In this module we’ll get you set up with everything you need to complete the GitHub Education Teacher Training.
+En este módulo, veremos lo necesario para completar la Capacitación.
 
-## Lessons
-All assignment files can be found at the top of this page.
+## Lecciones
+Todos los archivos de asignación se pueden encontrar en la parte superior de esta página.
 
--  📺 [Module 0.0 Video](https://youtu.be/Ub8IMMMTfB8)
--  📓 Complete Module 0.1 Assignment
--  📓 Complete Module 0.2 Assignment
+- 📺 [Módulo 0.0 Vídeo](https://youtu.be/Ub8IMMMTfB8)
+- 📓 Módulo completo 0.1 Asignación
+- 📓 Módulo completo 0.2 Asignación

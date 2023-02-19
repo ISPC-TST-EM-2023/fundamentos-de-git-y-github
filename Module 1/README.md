@@ -17,24 +17,24 @@ En este módulo se le presentará Git. Este módulo cubrirá:
 
 ### Módulo 1.1: Conoce a Git
 
-[:tv: Módulo 1.1 Vídeo](https://youtu.be/uWsXEmaM3PA)
+[:tv: Módulo 1.1 Vídeo](https://youtu.be/uWsXEmaM3PA) (3':56'')
 
 :notebook: Completar la Tarea del Módulo 1.1
 
 ### Módulo 1.2: El modelo de tres estados
 
-[:tv: Módulo 1.2 Vídeo](https://youtu.be/yLLZdOIuCfg)
+[:tv: Módulo 1.2 Vídeo](https://youtu.be/yLLZdOIuCfg) (8':19'')
 
 :notebook: Completar la Tarea del Módulo 1.2
 
 ### Módulo 1.3: Ser selectivo con Git
 
-[:tv: Módulo 1.3 Vídeo](https://youtu.be/3zmolo8YRO8)
+[:tv: Módulo 1.3 Vídeo](https://youtu.be/3zmolo8YRO8) (9':34'')
 
 :notebook: Completar la Tarea del Módulo 1.3
 
 ### Módulo 1.4: Ramas y fusiones
 
-[:tv: Módulo 1.4 Video](https://youtu.be/2YDoQZ9nZ4g)
+[:tv: Módulo 1.4 Video](https://youtu.be/2YDoQZ9nZ4g) (9':35'')
 
 :notebook: Completar la Tarea del Módulo 1.4

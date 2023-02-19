@@ -1,9 +1,9 @@
-# Assignment 2: Teacher Toolbox
-In order to fully take advantage of GitHub Education teacher benefits, you’ll need the Teacher Toolbox (if you do not already have it).
+# Tarea 2: Caja de herramientas del estudiante
+Para aprovechar al máximo los beneficios para estudiantes de GitHub Education, necesitará la Caja de herramientas para estudiantes (si aún no la tiene).
 
-Head over to the [Teacher Toolbox](https://education.github.com/toolbox) and fill out the application. You’ll need to provide dated proof that you are a faculty member at your institution, so have that on hand.
+Dirígete a la [Caja de herramientas del estudiante](https://education.github.com/pack/join) y completa la solicitud. Deberá proporcionar una prueba fechada de que es un miembro de la facultad de su institución, así que téngala a mano.
 
-Some Teacher Toolbox applications require a manual review and may take longer to receive a decision and response. After you have applied, your confirmation page will indicate approximately how long your application review may take.
+Algunas aplicaciones de Estudent Toolbox requieren una revisión manual y pueden tardar más en recibir una decisión y una respuesta. Una vez que haya presentado su solicitud, su página de confirmación indicará aproximadamente cuánto tiempo puede tomar la revisión de su solicitud.
 
-## Submission
-There is no submission for this assignment
+## Envío
+No hay presentación para esta tarea.

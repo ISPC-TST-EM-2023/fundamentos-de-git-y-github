@@ -1,17 +1,18 @@
-For the Module 1.2 Assignment, you will open up your command line and complete the following:
+Para la Tarea del Módulo 1.2, abrirá su línea de comando y completará lo siguiente:
 
-- [ ] Create a directory using the command `mkdir`
-- [ ] In the directory you created initialize Git using `git init`
-- [ ] Create a README.md file in your directory using the `touch` command
-- [ ] Make sure README.md is in your _Working Directory_ by checking your status with `git status`
-- [ ] Move README.md from the _Working Directory_ to the _Staging Area_ by using `git add`
-- [ ] Make sure README.md is in your _Staging Area_ by checking your status with `git status`
-- [ ] Commit README.md to your repository using `git commit`
-- [ ] Make sure your _Working Directory_ and _Staging Area_ are clean with `git status`
-- [ ] Make sure your commit has been logged into your repository by using `git log`
+- [ ] Crea un directorio usando el comando `mkdir`
+- [ ] En el directorio que creaste, inicializa Git usando `git init`
+- [ ] Cree un archivo README.md en su directorio usando el comando `touch`
+- [ ] Asegúrese de que README.md esté en su _Directorio de trabajo_ comprobando su estado con `git status`
+- [ ] Mueva README.md del _Directorio de trabajo_ al _Área de preparación_ usando `git add`
+- [ ] Asegúrese de que README.md esté en su _Área de ensayo_ comprobando su estado con `git status`
+- [ ] Comprometer README.md a su repositorio usando `git commit`
+- [ ] Asegúrese de que su _Directorio de trabajo_ y _Área de ensayo_ estén limpios con `git status`
+- [ ] Asegúrate de que tu confirmación haya sido registrada en tu repositorio usando `git log`
 
-Once you have completed these steps, take a screenshot of your command line, with the steps above, and upload your screenshot to a new `Issue` titled `Module 1.2 Assignment`. I have added the screenshot from the Module 1.1 Assignment for reference.
+Una vez que haya completado estos pasos, tome una captura de pantalla de su línea de comando, con los pasos anteriores, y cargue su captura de pantalla en un nuevo "Problema" titulado "Asignación del módulo 1.2". He agregado la captura de pantalla de la Asignación del Módulo 1.1 como referencia.  
 
-![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_three.png)
+![image](https://user-images.githubusercontent.com/84986194/219960580-f0ae1bce-b987-4ce0-9bf3-11881ac809ed.png)
 
-In the body of the issue you can drag and drop your screenshot or search for it on your device. Once you have added the screenshot you can submit the issue and move to the next lesson.
+
+En el cuerpo del problema, puede arrastrar y soltar su captura de pantalla o buscarla en su dispositivo. Una vez que haya agregado la captura de pantalla, puede enviar el problema y pasar a la siguiente lección.

@@ -1,14 +1,14 @@
-# Module 1.3 Assignment
+# Módulo 1.3 Tarea
 
-Now that you have learned more about Git, on the command line I would like you to do the following:
+Ahora que ha aprendido más sobre Git, en la línea de comandos me gustaría que hiciera lo siguiente:
 
-- [ ] Create a file called `teacher_training.txt` in the directory you created in Module 1.2
-- [ ] Write "Hello GitHub Education!" in `teacher_training.txt` and **commit** your changes
-- [ ] Now write "Hola GitHub Education!" in `teacher_training.txt`
-- [ ] Show the differences between your _Working Directory_ and _Staging Area_
-- [ ] Add `teacher_training.txt` to your _Staging Area_
-- [ ] Show the differences between your _Staging Area_ and your _Repository_
-- [ ] Commit teacher_training.txt to your repository
+- [ ] Cree un archivo llamado `teacher_training.txt` en el directorio que creó en el Módulo 1.2
+- [ ] Escribe "¡Hola Educación GitHub!" en `teacher_training.txt` y **commit** tus cambios
+- [ ] Ahora escribe "¡Hola GitHub Education!" en `teacher_training.txt`
+- [ ] Muestra las diferencias entre tu _Directorio de trabajo_ y _Área de ensayo_
+- [ ] Agregue `teacher_training.txt` a su _Área de ensayo_
+- [ ] Muestra las diferencias entre tu _Staging Area_ y tu _Repository_
+- [ ] Enviar teacher_training.txt a su repositorio
 
-Once you have completed these steps, take a screenshot of your command line, with the steps above, 
-and upload your screenshot to a new Issue titled Module 1.3 Assignment.
+Una vez que haya completado estos pasos, tome una captura de pantalla de su línea de comando, con los pasos anteriores,
+y cargue su captura de pantalla en una nueva edición titulada Módulo 1.3 Asignación.

@@ -1,38 +1,38 @@
-# Welcome to Module 2: GitHub Basics
+# Bienvenido al Módulo 2: Conceptos básicos de GitHub
 
-In this module you will be introduced to GitHub. This module will cover:
+En este módulo se le presentará GitHub. Este módulo cubrirá:
 
-* Communicating with a remote
-* Git commands for working with a remote
-* Fetching and Pulling from GitHub
-* Git commands to request updates from GitHub
-* The GitHub Workflow
-* Resolving Merge Conflicts
+* Comunicarse con un control de versiones remoto
+* Comandos Git para trabajar con un control de versiones remoto
+* Obtener y extraer de GitHub
+* Comandos de Git para solicitar actualizaciones de GitHub
+* El flujo de trabajo de GitHub
+* Resolución de conflictos de fusión
 
-## Lessons
+## Lecciones
 
-**All assignment files can be found at the top of the page.**
+**Todos los archivos de tareas se pueden encontrar en la parte superior de la página.**
 
-### Module 2.1: Pushing to a Remote
+### Módulo 2.1: Subir a un control remoto (push)
 
-[:tv: Module 2.1 Video](https://youtu.be/R2bLo-KiYlU)
+[:tv: Módulo 2.1 Vídeo](https://youtu.be/R2bLo-KiYlU) (5':07'')
 
-:notebook: Complete Module 2.1 Assignment
+:notebook: Completar la Tarea del Módulo 2.1
 
-### Module 2.2: Fetching and Pulling from a Remote
+### Módulo 2.2: Obtener y extraer de un control remoto (fetch y pull)
 
-[:tv: Module 2.2 Video](https://youtu.be/gNaCC_8B1k0)
+[:tv: Vídeo Módulo 2.2](https://youtu.be/gNaCC_8B1k0) (5':49'')
 
-:notebook: Complete Module 2.2 Assignment
+:notebook: Completar la Tarea del Módulo 2.2
 
-### Module 2.3: GitHub Workflow
+### Módulo 2.3: Flujo de trabajo de GitHub
 
-[:tv: Module 2.3 Video](https://youtu.be/SoaAoATcUxU)
+[:tv: Módulo 2.3 Video](https://youtu.be/SoaAoATcUxU) (5':58'')
 
-:notebook: Complete Module 2.3 Assignment
+:notebook: Completar la Tarea del Módulo 2.3
 
-### Module 2.4: Merge Conflicts
+### Módulo 2.4: Conflictos de fusión
 
-[:tv: Module 2.4 Video](https://youtu.be/c1210JclnPw)
+[:tv: Vídeo Módulo 2.4](https://youtu.be/c1210JclnPw) (3':27'')
 
-:notebook: Complete Module 2.4 Assignment
+:notebook: Completar la Tarea del Módulo 2.4

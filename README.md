@@ -14,7 +14,7 @@ No hay calificación para esta capacitación, así que siéntase libre de explor
 
 ## Este es tu entrenamiento
 
-Es beneficioso que aproveche los recursos que se le presentan, pero si encuentra casos en los que se pueden mejorar las cosas, cree un problema en el repositorio original [aquí] (https://github.com/github-campus-advisors /Campus-Advisor-Training/issues/new?assignees=arelia&labels=suggestion&template=suggestion.md&title=%5BSUGGESTION%5D+Suggestion+title). Si no está familiarizado con los problemas de GitHub, no se preocupe, los aprenderá pronto.
+Es beneficioso que aproveche los recursos que se le presentan, pero si encuentra casos en los que se pueden mejorar las cosas, cree un problema en el repositorio original [aquí] (https://github.com/ISPC-TST-ELECTRONICA-MICROCONTROLADA/FUNDAMENTOS-DE-GIT-Y-GITHUB). Si no está familiarizado con los problemas de GitHub, no se preocupe, los aprenderá pronto.
 
 ## Preguntas
 Si tiene alguna pregunta sobre la configuración o sobre cualquiera de los módulos de aprendizaje, diríjase a la Comunidad educativa de GitHub.

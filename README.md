@@ -6,7 +6,7 @@ En esta capacitación, se le presentará una combinación de lecciones en video 
 
 En cada módulo, encontrará lecciones en video marcadas con este ícono 📺 y las tareas estarán marcadas con este ícono 📓.
 
-## Empezar
+## Empezar Aqui!!!
 Su viaje comienza en el Módulo 0, donde configurará todo lo que necesita para completar la capacitación.
 
 ## Trabaja a tu propio ritmo
